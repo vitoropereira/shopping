@@ -6,7 +6,7 @@ export const SuccessContainer = styled('main', {
   alignItems: 'center',
   justifyContent: 'center',
   margin: '0 auto',
-  height: 656,
+  height: 608,
 
   h1: {
     fontSize: '$2xl',
@@ -18,13 +18,13 @@ export const SuccessContainer = styled('main', {
     color: '$gray300',
     maxWidth: 560,
     textAlign: 'center',
-    marginTop: '2rem',
+    marginTop: '1.5rem',
     lineHeight: 1.4,
   },
 
   a: {
     display: 'block',
-    marginTop: '5rem',
+    marginTop: '1rem',
     fontSize: '$lg',
     color: '$green500',
     textDecoration: 'none',
@@ -43,7 +43,7 @@ export const ImageContainer = styled('div', {
   background: 'linear-gradient(180deg, #1ea483 0%, #7465d4 100%)',
   borderRadius: 8,
   padding: '0.25rem',
-  marginTop: '4rem',
+  marginTop: '3rem',
 
   display: 'flex',
   alignItems: 'center',
